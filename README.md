@@ -5,4 +5,6 @@ Forked from lassekongo83/adw-gtk3 and original README.md is located [here](adw-g
 - In progress
   - Transparency support
   - Variable colorscheme
- 
+
+# Credits
+- [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3)

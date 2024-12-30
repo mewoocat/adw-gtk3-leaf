@@ -3,6 +3,3 @@
 
 # Ignore meson build directory
 build
-
-# Ignore flake build result
-result

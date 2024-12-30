@@ -2990,3 +2990,9 @@ geary-conversation-viewer#conversation_viewer searchbar > revealer > box { backg
 .budgie-panel.vertical button { padding: 4px 0; }
 
 .budgie-panel.vertical #tasklist-button { min-height: 32px; }
+
+/* Trying to target the popup window of the entry completion */
+/* Seems to work for the thunar path entry completion */
+entry .background {
+  background-color: @destructive_bg_color;
+}
